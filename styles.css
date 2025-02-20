@@ -1,14 +1,14 @@
 body {
-    font-family: 'Hey Comic', KGHAPPYSolid ; /* Change to Poppins */
+    font-family: 'ANTON' ; /* Change to Poppins */
     margin: 0;
     padding: 0;
-    background-color: #ffaed0;
-    color: #fff5b7; /* Light pink color */
+    background-color: #ffffff;
+    color: #ffdd00; /* Light pink color */
 }
 
 header {
-    background: #c1cfff; /* Pink */
-    color: #fffdce;
+    background: #000000; /* Pink */
+    color: #ffffff;
     padding: 10px 0;
     text-align: center;
 }
@@ -37,8 +37,8 @@ section {
 }
 
 .product {
-    background: #bcdaff;
-    border: 1px solid #ffd0e6;
+    background: #000000;
+    border: 1px solid #ffffff;
     border-radius: 5px;
     padding: 10px;
     text-align: center;
@@ -51,7 +51,7 @@ section {
 }
 
 .buy-button {
-    background-color: #ff0cdb; /* Blue */
+    background-color: #101686; /* Blue */
     color: rgb(252, 246, 222);
     border: none;
     padding: 10px 15px;
@@ -60,14 +60,14 @@ section {
 }
 
 .buy-button:hover {
-    background-color: #5a5a5a;
+    background-color: #ff0000;
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
-    color: #ffffff;
+    background:rgb(23, 37, 93);
+    color: #fff36b;
     position: relative;
     bottom: 0;
     width: 100%;
