@@ -1,13 +1,13 @@
 body {
-    font-family: 'ANTON' ; /* Change to Poppins */
+    font-family: 'ANTON' ; 
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    color: #ffdd00; /* Light pink color */
+    color: #ffdd00; 
 }
 
 header {
-    background: #000000; /* Pink */
+    background: #000000; 
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
@@ -51,7 +51,7 @@ section {
 }
 
 .buy-button {
-    background-color: #101686; /* Blue */
+    background-color: #101686;
     color: rgb(252, 246, 222);
     border: none;
     padding: 10px 15px;
