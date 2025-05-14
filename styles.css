@@ -1,13 +1,13 @@
 body {
-    font-family: 'ANTON' ; 
+    font-family: 'Starborn' ; /* Change to Poppins */
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    color: #ffdd00; 
+    color: #fddb00; 
 }
 
 header {
-    background: #000000; 
+    background: #ffc0e0; 
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
@@ -37,7 +37,7 @@ section {
 }
 
 .product {
-    background: #000000;
+    background: #ffffff;
     border: 1px solid #ffffff;
     border-radius: 5px;
     padding: 10px;
@@ -51,7 +51,7 @@ section {
 }
 
 .buy-button {
-    background-color: #101686;
+    background-color: #ff79a5; /* Blue */
     color: rgb(252, 246, 222);
     border: none;
     padding: 10px 15px;
