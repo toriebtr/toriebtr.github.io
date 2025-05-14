@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
 body {
-    font-family: 'Starborn' ; /* Change to Poppins */
+    font-family: 'Coiny', cursive;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
-    color: #fddb00; 
+    background-color: #000000;
+    color: #ffffff; 
 }
 
 header {
@@ -37,7 +38,7 @@ section {
 }
 
 .product {
-    background: #ffffff;
+    background: #000000;
     border: 1px solid #ffffff;
     border-radius: 5px;
     padding: 10px;
@@ -66,9 +67,10 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background:rgb(23, 37, 93);
-    color: #fff36b;
+    background:rgb(255, 185, 246);
+    color: #000000;
     position: relative;
     bottom: 0;
     width: 100%;
 }
+
